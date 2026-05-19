@@ -1,5 +1,6 @@
-👨‍💻 About Me
+## 👨‍💻 About Me
 
+```python
 class AmaanMulla:
     def __init__(self):
         self.role = "Software Developer"
@@ -22,3 +23,4 @@ class AmaanMulla:
     
     def life_motto(self):
         return "Code. Learn. Repeat. 🚀"
+```
